@@ -1,3 +1,8 @@
 console.log("hello world")
 
-console.log("123")
+const age=20
+if(age>=18){
+    console.log("Вы совершенолетний")
+}else{
+    console.log("Вы не совершенолетний")
+}
